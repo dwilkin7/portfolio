@@ -1,3 +1,3 @@
-#Portfolio
+# Portfolio
 
-##Class projects and code examples.
+## Class projects and code examples.
